@@ -8,6 +8,10 @@ body {
   margin: 0 151.43px;
 }
 
+button {
+  cursor: pointer;
+}
+
 .header {
   background-size: cover;
   background-position: center;
